@@ -1,0 +1,34 @@
+{
+  "name": "@go1framework/ddd",
+  "version": "0.0.3",
+  "description": "GO1 Domain Driven Design framework",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go1js/go1.git"
+  },
+  "keywords": [
+    "ddd",
+    "go1"
+  ],
+  "author": "GO1 Pty Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/go1js/go1/issues"
+  },
+  "homepage": "https://github.com/go1js/go1#readme",
+  "files": [
+    "/lib",
+    "/src"
+  ],
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "@types/node": "^12.0.0"
+  }
+}
